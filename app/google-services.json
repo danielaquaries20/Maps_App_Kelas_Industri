@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70782641772",
+    "project_id": "maps-app-kelas-industri",
+    "storage_bucket": "maps-app-kelas-industri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70782641772:android:fa522a386f523869119a49",
+        "android_client_info": {
+          "package_name": "com.example.mapsappkelasindustri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70782641772-o5je8u1hgur1qh8auc5ecatejuf8s7g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapsappkelasindustri",
+            "certificate_hash": "c347bd5d00f0eb75da3e5b23f1f8922721a86eba"
+          }
+        },
+        {
+          "client_id": "70782641772-6ng3g6m0q6q0ttg05bvfe8ouqcl6lh6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQwnIAfbitDf3Ufnk90WrlcEEs5fSy10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70782641772-6ng3g6m0q6q0ttg05bvfe8ouqcl6lh6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
