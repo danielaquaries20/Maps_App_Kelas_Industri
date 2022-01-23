@@ -28,7 +28,7 @@ android {
         }
 
         applicationId "com.example.mapsappkelasindustri"
-        minSdkVersion 21
+        minSdkVersion 23
         targetSdkVersion 31
         versionCode 1
         versionName "1.0"
@@ -114,5 +114,8 @@ dependencies {
 
     //Place API
     implementation 'com.google.android.libraries.places:places:2.5.0'
+
+    //Draw Route
+    implementation 'com.github.malikdawar:drawroute:1.5'
 }
 apply plugin: 'com.google.gms.google-services'
